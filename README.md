@@ -1,5 +1,5 @@
 # OptimalBinarySearchTreeProject
-Project for testing runtimes of the optimal binary search tree function (Dynamic Programming)
+Project for testing runtimes of the optimal binary search tree function (Dynamic Programming) (COT 3400 - CRN 14000)
 
 ## Running
 The project is run from the command line.
